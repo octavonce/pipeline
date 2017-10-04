@@ -1,6 +1,6 @@
 const { expect } = require('chai');
 const td = require('testdouble');
-const { pipeline } = require('../src/index');
+const { pipeline } = require('../index');
 
 describe('pipe-operator', function() {
   describe('pipe()', function() {

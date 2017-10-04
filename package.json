@@ -1,6 +1,6 @@
 {
   "name": "pipeoperator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pipelines for javascript. Inspired by the elixir pipe operator.",
   "main": "index.js",
   "scripts": {
