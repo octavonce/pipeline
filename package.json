@@ -1,0 +1,26 @@
+{
+  "name": "pipeoperator",
+  "version": "0.1.0",
+  "description": "Pipelines for javascript. Inspired by the elixir pipe operator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "pipe",
+    "pipeline",
+    "operator",
+    "elixir",
+    "pipe operator",
+    "pipeline operator",
+    "functional",
+    "functional programming"
+  ],
+  "author": "Octavian Oncescu",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.0",
+    "testdouble": "^3.2.6"
+  }
+}
